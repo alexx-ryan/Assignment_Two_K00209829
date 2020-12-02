@@ -1,0 +1,47 @@
+body {
+    
+    margin-top: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #dbdbdb;
+    background-image: url("background.jpg");
+    background-position: 50% 0%;
+    background-size: auto;
+    background-repeat: repeat;
+  
+}
+
+#main_content{
+      
+    margin: auto;
+    width: 60%;
+    height: auto;
+    padding:20px;     
+    background-color: #ffffff;
+   
+}
+
+#VehicleImages{
+       width: 50%;
+       float: left;
+       margin-bottom: 180px;
+}
+
+#VehicleDetails {
+        margin-left: 41%;
+        margin-bottom: 50px;
+        
+        
+}
+
+
+#VehicleDescription {
+    
+}
+
+#VehicleContact {
+    width:50%;
+}
+.twitter-share-button{
+  
+    
+}
